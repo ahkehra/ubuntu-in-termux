@@ -8,7 +8,7 @@ This is a script that allows you to install Ubuntu in your termux application wi
 
 ## Updates
 
-**• Updated to ubuntu 20.04**
+**• Updated to ubuntu 22.04**
 
 ## Important
 
@@ -26,7 +26,3 @@ This is a script that allows you to install Ubuntu in your termux application wi
 8. Give execution permission: `chmod +x ubuntu.sh`
 9. Run the script: `./ubuntu.sh -y`
 10. Now just start ubuntu: `./startubuntu.sh`
-
-### Todo
-
--   [ ] **Fix installation problem for some devices**
